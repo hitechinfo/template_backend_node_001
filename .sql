@@ -2,7 +2,7 @@
 
 
 -- template 데이터베이스 생성
-CREATE DATABASE IF NOT EXISTS `template` 
+CREATE DATABASE IF NOT EXISTS `template` ;
 
 -- template.sv_common_codes 생성
 CREATE TABLE IF NOT EXISTS `sv_common_codes` (
